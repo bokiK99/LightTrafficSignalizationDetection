@@ -1,0 +1,14 @@
+path: C:/Bojan Kojčinović/SEDMI TRENING
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: zeljeznicki_prijelaz
+  1: semafor
+  2: PS_krug
+  3: PS_trokut
+  4: dozvoljena_traka
+  5: zabranjena_traka
+  6: promjena_trake
+  7: tekst

@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>YoloGUI</AssemblyName>
+    <RootNamespace>YoloGUI</RootNamespace>
+    <Nullable>disable</Nullable>
+    <Platforms>AnyCPU</Platforms>
+    <ApplicationIcon />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Newtonsoft.Json za parsiranje JSON odgovora Python skripte -->
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <!-- Kopiraj python_backend folder u output direktorij -->
+  <ItemGroup>
+    <Content Include="..\..\python_backend\**\*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Link>python_backend\%(RecursiveDir)%(Filename)%(Extension)</Link>
+    </Content>
+  </ItemGroup>
+
+</Project>

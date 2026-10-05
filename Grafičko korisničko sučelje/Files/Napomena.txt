@@ -1,0 +1,1 @@
+Ovdje je potrebno kopirati sve .pt datoteke, tj. modele koji bi se primjenjivali unutar grafičkog korisničkog sučelja.

@@ -1,0 +1,5 @@
+train.py - skripta za trening modela
+matrix.py - skripta za generiranje matrica zabune modela na testnom podskupu
+predict_test.py - skripta za primjenu modela na testni podskup i spremanje slika s graničnim okvirima
+augment.py - skripta za augmentaciju slika
+data.yml - skripta za opis strukture skupa podataka i definiciju klasa

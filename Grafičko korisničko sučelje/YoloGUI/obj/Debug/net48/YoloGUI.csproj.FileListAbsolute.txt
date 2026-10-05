@@ -1,0 +1,15 @@
+D:\yolo_gui_project\YoloGUI\YoloGUI\obj\Debug\net48\YoloGUI.csproj.AssemblyReference.cache
+D:\yolo_gui_project\YoloGUI\YoloGUI\obj\Debug\net48\YoloGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\yolo_gui_project\YoloGUI\YoloGUI\obj\Debug\net48\YoloGUI.AssemblyInfoInputs.cache
+D:\yolo_gui_project\YoloGUI\YoloGUI\obj\Debug\net48\YoloGUI.AssemblyInfo.cs
+D:\yolo_gui_project\YoloGUI\YoloGUI\obj\Debug\net48\YoloGUI.csproj.CoreCompileInputs.cache
+D:\yolo_gui_project\YoloGUI\YoloGUI\bin\Debug\net48\python_backend\yolo_infer.py
+D:\yolo_gui_project\YoloGUI\YoloGUI\bin\Debug\net48\YoloGUI.exe.config
+D:\yolo_gui_project\YoloGUI\YoloGUI\bin\Debug\net48\YoloGUI.exe
+D:\yolo_gui_project\YoloGUI\YoloGUI\bin\Debug\net48\YoloGUI.pdb
+D:\yolo_gui_project\YoloGUI\YoloGUI\bin\Debug\net48\Newtonsoft.Json.dll
+D:\yolo_gui_project\YoloGUI\YoloGUI\obj\Debug\net48\YoloGUI.csproj.Up2Date
+D:\yolo_gui_project\YoloGUI\YoloGUI\obj\Debug\net48\YoloGUI.exe
+D:\yolo_gui_project\YoloGUI\YoloGUI\obj\Debug\net48\YoloGUI.pdb
+D:\yolo_gui_project\YoloGUI\YoloGUI\obj\Debug\net48\YoloGUI.MainForm.resources
+D:\yolo_gui_project\YoloGUI\YoloGUI\obj\Debug\net48\YoloGUI.csproj.GenerateResource.cache
